@@ -2,7 +2,7 @@
 fixes and apends skus for sera systems parts hvac probably python 3.9?
 
 
-Hi all, this may be way to deep but amight be useful to someone, someday. I'm the new guy, and I asked the question "why can't I search parts by sku?". "Haha, you just can't" wasn't the answer I hoped for, so I changed that.
+Hi all, this may be way to deep but might be useful to someone, someday. I'm the new guy, and I asked the question "why can't I search parts by sku?". "Haha, you just can't" wasn't the answer I hoped for, so I changed that.
 
 I have to preface this with: I am not a programmer. I'm not a tech guy. I've been a truck driver for almost the past decade. This code is poorly written, uses extra calls (resources/page visits to the server/sera servers), and is nowhere near optimized.
 
