@@ -1,5 +1,5 @@
 # sera-sku-fixer
-fixes and apends skus for sera systems parts hvac
+fixes and apends skus for sera systems parts hvac probably python 3.9?
 
 
 Hi all, this may be way to deep but amight be useful to someone, someday. I'm the new guy, and I asked the question "why can't I search parts by sku?". "Haha, you just can't" wasn't the answer I hoped for, so I changed that.
